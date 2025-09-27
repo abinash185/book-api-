@@ -17,8 +17,8 @@ A simple RESTful API for managing books and reviews, built with **Node.js (Expre
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/book-review-api.git
-cd book-review-api
+git clone https://github.com/abinash185/book-api-
+cd book-api-
 ```
 
 ### 2️⃣ Install Dependencies
@@ -136,9 +136,6 @@ erDiagram
     }
 ```
 
-### PNG Version
-![Book Review ER Diagram](book_review_er.png)
-
 ---
 
 ## 📝 Assumptions & Design Decisions
@@ -149,4 +146,5 @@ erDiagram
 
 ---
 
+## This Repo is created by Abinash Kumar 😎
 
